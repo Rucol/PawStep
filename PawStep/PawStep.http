@@ -1,0 +1,6 @@
+@PawStep_HostAddress = http://localhost:5249
+
+GET {{PawStep_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
